@@ -3,7 +3,7 @@
     - 解题模式：![](think.png)
     - 时间空间复杂度 ![](time.png)
     - 当前提及的知识点 ![](knowledge.png)
-    - 当前数据结构内容整理 1[](mynote.png)
+    - 当前数据结构内容整理 1[](mynote.png) 内容见numbers表
 
 #本周作业
 - remove-duplicates-from-sorted-array:
