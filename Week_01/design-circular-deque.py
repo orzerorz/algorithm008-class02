@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-基于双端链表 实现的 双端队列 时间复杂度 增删 O(1),查询 O(n);空间复杂度 O(1)
+基于双端链表 实现的 双端队列 时间复杂度 增删 O(1),查询 O(n);空间复杂度 O(n)
 """
 class deq():
     def __init__(self, value):
